@@ -6,7 +6,7 @@ If you're using a J.I.M. board that I gave you you don't need to modify the "PIN
 
 //PINS, use this section to modify connections if you're making your own circuit.
 #define SERVO1_PIN 20
-#define SERVO2_PIN 21
+#define SERVO2_PIN 2
 #define BUTTON_PIN 7
 #define RIGHT_EYE 3
 #define LEFT_EYE 4
