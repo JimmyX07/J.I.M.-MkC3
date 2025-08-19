@@ -17,8 +17,8 @@ If you're using a J.I.M. board that I gave you you don't need to modify the "PIN
 
 //SERVOS OPEN AND CLOSE POSITION
 #define SERVO1_OPEN_POS 160
-#define SERVO1_CLOSE_POS 20
 #define SERVO2_OPEN_POS 20
+#define SERVO1_CLOSE_POS 20
 #define SERVO2_CLOSE_POS 160
 
 //EYES STARTUP EFFECT, uncomment this line to have a cool startup flickering effect when you turn on the helmet.
